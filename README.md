@@ -282,7 +282,7 @@ LabEasy/
 ## Author
 
 **Yash Sharma**  
-B.Tech CSE, VIPS-TC
+B.Tech CSE, VIPS-TC(2022-26)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yash-sharma-8a77581b5/)
 [![GitHub](https://img.shields.io/badge/GitHub-yash00003-181717?style=flat-square&logo=github)](https://github.com/yash00003)
