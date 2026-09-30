@@ -281,14 +281,12 @@ LabEasy/
 
 ## Author
 
-**Madhav Narayan**  
-B.Tech ECE, JIIT Noida (2022–2026)  
-AI/ML Engineer Intern @ Medtek.AI
+**Yash Sharma**  
+B.Tech CSE, VIPS-TC
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-Madhav082003-181717?style=flat-square&logo=github)](https://github.com/Madhav082003)
-[![Email](https://img.shields.io/badge/Email-madhavnarayan37%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:madhavnarayan37@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yash-sharma-8a77581b5/)
+[![GitHub](https://img.shields.io/badge/GitHub-yash00003-181717?style=flat-square&logo=github)](https://github.com/yash00003)
+[![Email](https://img.shields.io/badge/Email-yashsharma3.1.2005%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:yashsharma3.1.2005@gmail.com)
 ---
 
 <div align="center">
